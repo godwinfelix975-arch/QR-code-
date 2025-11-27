@@ -1,0 +1,658 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AVISHA TOWN HOTEL - Complete Menu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #f7f7f7;
+        }
+        .header {
+            text-align: center;
+            padding: 10px 0;
+            background: #2c3e50;
+            color: white;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        .contact {
+            font-size: 14px;
+            margin-top: 5px;
+        }
+        h1 {
+            margin-bottom: 5px;
+        }
+        .menu-section {
+            background: #fff;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+        }
+        .menu-item {
+            margin-bottom: 10px;
+            padding-bottom: 8px;
+            border-bottom: 1px dotted #eee;
+        }
+        .menu-item-title {
+            font-weight: bold;
+            font-size: 16px;
+        }
+        .menu-item-description {
+            font-size: 14px;
+            color: #666;
+            margin-top: 2px;
+        }
+        .price {
+            float: right;
+            font-weight: bold;
+            color: #e74c3c;
+        }
+        h2 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <h1>AVISHA TOWN HOTEL</h1>
+    <p><strong>Complete Restaurant Menu</strong></p>
+    <p class="contact">Outside Catering: +250788772488</p>
+</div>
+
+<!-- BREAKFAST SECTION -->
+<div class="menu-section">
+    <h2>Breakfast</h2>
+    <div class="menu-item">
+        <span class="menu-item-title">Omelette</span>
+        <span class="price">3500 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Plain Omelette</span>
+        <span class="price">3000 RWF</span>
+        <div class="menu-item-description">3 beaten eggs pan fried served with a piece of bread</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Joomla Omelette</span>
+        <span class="price">4000 RWF</span>
+        <div class="menu-item-description">3 beaten eggs pan fried, deleted banana, onion, green pepper served with a piece of bread</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Roles</span>
+        <span class="price">4000 RWF</span>
+        <div class="menu-item-description">3 beaten eggs pan fried and Fresh chapeau</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Special Omelette</span>
+        <span class="price">5000 RWF</span>
+        <div class="menu-item-description">4 beaten eggs pan fried, with deleted beef meat, tomato, onions, green pepper and chips</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Fried Eggs</span>
+        <span class="price">4000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Bello</span>
+        <span class="price">6000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Beef Bello</span>
+        <span class="price">6000 RWF</span>
+        <div class="menu-item-description">Boiled Beef mixed with Potatoes and bananas</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Agotago</span>
+        <span class="price">6000 RWF</span>
+        <div class="menu-item-description">Mixed of banana and potato and beef meat</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Chicken Bello</span>
+        <span class="price">7000 RWF</span>
+        <div class="menu-item-description">Boiled Chicken mixed with Potatoes and bananas</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Fish Bello</span>
+        <span class="price">8000 RWF</span>
+        <div class="menu-item-description">Boiled Fish mixed with Potatoes and bananas</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Igisaduruta, cylindolo or fish</span>
+        <span class="price">25000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Igisaduruta, beef or goat</span>
+        <span class="price">35000 RWF</span>
+    </div>
+</div>
+
+<!-- WRAPS SECTION -->
+<div class="menu-section">
+    <h2>Wraps</h2>
+    <div class="menu-item">
+        <span class="menu-item-title">Vegetable Wrap</span>
+        <span class="price">5000 RWF</span>
+        <div class="menu-item-description">Pan fried mixed vegetables with olive oil wrapped in fresh chapeau served with chips</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Beef Wrap</span>
+        <span class="price">6000 RWF</span>
+        <div class="menu-item-description">Beef strips, green pepper, onion, tomato wrapped in chapeau served with chips</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Chicken Wrap</span>
+        <span class="price">7000 RWF</span>
+        <div class="menu-item-description">Chicken strips, green pepper, onion, tomato wrapped in chapeau served with chips</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Fish Wrap</span>
+        <span class="price">8000 RWF</span>
+        <div class="menu-item-description">Fish strips, green pepper, onion, tomato wrapped in chapeau served with chips</div>
+    </div>
+</div>
+
+<!-- SOUPS SECTION -->
+<div class="menu-section">
+    <h2>Soups</h2>
+    <div class="menu-item">
+        <span class="menu-item-title">Vegetable Soup</span>
+        <span class="price">3000 RWF</span>
+        <div class="menu-item-description">Mixt of vegetable, onion, garlic served with toasted bread</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Fish Soup</span>
+        <span class="price">8000 RWF</span>
+        <div class="menu-item-description">Bites of fish filled and white onions creamy garlic served with toasted bread</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Mushroom Soup</span>
+        <span class="price">6000 RWF</span>
+        <div class="menu-item-description">Caramelized onions, garlic with chopped fresh mushrooms creamy and like served with toasted bread</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Chicken Soup</span>
+        <span class="price">7000 RWF</span>
+        <div class="menu-item-description">Bites of chicken breast and white onions creamy and thick, garlic served with toasted bread</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Mixed Soup</span>
+        <span class="price">8000 RWF</span>
+        <div class="menu-item-description">The mix of chicken breast, fish and white onions creamy and thick, garlic served with toasted bread</div>
+    </div>
+</div>
+
+<!-- PASTA SECTION -->
+<div class="menu-section">
+    <h2>Pasta</h2>
+    <div class="menu-item">
+        <span class="menu-item-title">Spaghetti Bolognaise</span>
+        <span class="price">7000 RWF</span>
+        <div class="menu-item-description">Spaghetti with Beef minced meat topped with grated and melted cheese</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Chicken and Mushroom Pasta</span>
+        <span class="price">7000 RWF</span>
+        <div class="menu-item-description">Strips of sautéed chicken and mushroom in creamy sauce</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Napolitaine</span>
+        <span class="price">5000 RWF</span>
+        <div class="menu-item-description">Spaghetti or penne with assorted vegetable seasoned</div>
+    </div>
+</div>
+
+<!-- BURGERS SECTION -->
+<div class="menu-section">
+    <h2>Burgers</h2>
+    <div class="menu-item">
+        <span class="menu-item-title">Vegetable Burger</span>
+        <span class="price">4000 RWF</span>
+        <div class="menu-item-description">Claw-broiled Vegetable with lettuce, tomato and caramelized onion on burger buns served with french fried</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Classic Burger</span>
+        <span class="price">6000 RWF</span>
+        <div class="menu-item-description">Claw-broiled beef burger with lettuce, tomato and caramelized onion on burger buns served with french fried</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Cheese Burger</span>
+        <span class="price">6000 RWF</span>
+        <div class="menu-item-description">It's our Classic burger topped with melted cheese served with french fries</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Chicken Burger</span>
+        <span class="price">7000 RWF</span>
+        <div class="menu-item-description">Marinated chicken breast, tomato, caramelized onion and served with french fries</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">King Burger</span>
+        <span class="price">7000 RWF</span>
+        <div class="menu-item-description">Claw-broiled double beef burger with lettuce, tomato and caramelized onion on burger buns served with french fried</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Chicken King Burger</span>
+        <span class="price">8000 RWF</span>
+        <div class="menu-item-description">Claw-broiled double beef burger with lettuce, tomato and caramelized onion on burger buns served with french fried</div>
+    </div>
+</div>
+
+<!-- BIRYANI RICE SECTION -->
+<div class="menu-section">
+    <h2>Biryani Rice</h2>
+    <div class="menu-item">
+        <span class="menu-item-title">Vegetable Biryani</span>
+        <span class="price">4000 RWF</span>
+        <div class="menu-item-description">Rice cooked by bomboy biriyani spice mixed with vegetables served with boiled 1 egg</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Beef Biryani</span>
+        <span class="price">6000 RWF</span>
+        <div class="menu-item-description">Rice cooked by bomboy biriyani spice mixed with grilled Beef served with boiled 1 egg</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Chicken Biryani</span>
+        <span class="price">7000 RWF</span>
+        <div class="menu-item-description">Rice cooked by bomboy biriyani spice mixed with grilled chicken served with boiled 1 egg</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Fish Biryani</span>
+        <span class="price">8000 RWF</span>
+        <div class="menu-item-description">Rice cooked by bomboy biriyani spice mixed with grilled Fish served with boiled 1 egg</div>
+    </div>
+</div>
+
+<!-- BARBECUE SECTION -->
+<div class="menu-section">
+    <h2>Barbecue</h2>
+    <div class="menu-item">
+        <span class="menu-item-title">Goat Brochette</span>
+        <span class="price">2500 RWF</span>
+        <div class="menu-item-description">1 skewered goat meat layered with onions, tomato</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Zingalo</span>
+        <span class="price">3000 RWF</span>
+        <div class="menu-item-description">1 skewered Goat meat layered with onions, tomato</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Beef Brochette</span>
+        <span class="price">2500 RWF</span>
+        <div class="menu-item-description">1 skewered Beef meat layered with onions, tomato</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Chicken Brochette</span>
+        <span class="price">3000 RWF</span>
+        <div class="menu-item-description">1 skewered Chicken meat layered with onions, tomato</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Beef Jumbo Brochette</span>
+        <span class="price">3000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Fish Brochette</span>
+        <span class="price">3000 RWF</span>
+        <div class="menu-item-description">1 skewered Fish filled layered with onions, tomato and lemon</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Whole Grilled Chicken + Chips</span>
+        <span class="price">20000 RWF</span>
+        <div class="menu-item-description">Whole Chicken grilled in oven marinated with spices</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Whole Grilled Fish + Chips</span>
+        <span class="price">20000 RWF</span>
+        <div class="menu-item-description">Whole Tilapia fish grilled marinated with mixt of spices served</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Goat Nyamachoma</span>
+        <span class="price">30000 RWF</span>
+        <div class="menu-item-description">Served with Kachumbari salad, potato or chips grilled banana</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Fish Fillet + Chips or Rice</span>
+        <span class="price">8000 RWF</span>
+        <div class="menu-item-description">Tilapia fish fillet grilled marinated with mixt of spices served</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Chicken Leg + Chips or Rice</span>
+        <span class="price">7000 RWF</span>
+        <div class="menu-item-description">Chicken leg grilled marinated with mixt of spices</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Chicken Breast + Chips or Rice</span>
+        <span class="price">8000 RWF</span>
+        <div class="menu-item-description">Chicken Breast grilled marinated with mixt of spices</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Tandoori Chicken</span>
+        <span class="price">8000 RWF</span>
+    </div>
+</div>
+
+<!-- PIZZA SECTION -->
+<div class="menu-section">
+    <h2>Pizza</h2>
+    <div class="menu-item">
+        <span class="menu-item-title">Margherita Pizza</span>
+        <span class="price">5000 RWF</span>
+        <div class="menu-item-description">Pizza dough topped with tomato sauce and cheese</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">4 Season Pizza</span>
+        <span class="price">12000 RWF</span>
+        <div class="menu-item-description">Mini cubes of chicken breast, beef, Mushroom, onion, green pepper, Tomato sauce and cheese</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Peri-Peri Chicken Pizza</span>
+        <span class="price">12000 RWF</span>
+        <div class="menu-item-description">Mini cubes of Chicken breast, pineapple, chili on a base of tomato with melted cheese</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Calzone Pizza</span>
+        <span class="price">10000 RWF</span>
+        <div class="menu-item-description">Tomato, cheese, oregano, onion, green pepper mixture of beef</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Fruity Pizza</span>
+        <span class="price">10000 RWF</span>
+        <div class="menu-item-description">Cheese, oregano, pineapple, chicken, sweet corn, tomato, green pepper, onion</div>
+    </div>
+</div>
+
+<!-- SALADS SECTION -->
+<div class="menu-section">
+    <h2>Salads</h2>
+    <div class="menu-item">
+        <span class="menu-item-title">Avisha Salad</span>
+        <span class="price">7000 RWF</span>
+        <div class="menu-item-description">Mixed of onion, Lettuce, Carrot, Cucumber served with mayonnaise, piece of Chicken, Body with eggs</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Kachumbari Salad</span>
+        <span class="price">4000 RWF</span>
+        <div class="menu-item-description">Mixed of onion, Green pepper, chili, Carrot</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Beef Salad</span>
+        <span class="price">6000 RWF</span>
+        <div class="menu-item-description">Mixed green salad, Pineapple or watermelon, avocado, grilled portions of Beef cheese</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Chicken Salad</span>
+        <span class="price">8000 RWF</span>
+        <div class="menu-item-description">Mixed green salad, Pineapple or watermelon, avocado, grilled portions of chicken, cheese</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Chef Salad</span>
+        <span class="price">8000 RWF</span>
+        <div class="menu-item-description">Ham, Cheese, Avocado, boiled eggs served on bed of mixed garden salad</div>
+    </div>
+</div>
+
+<!-- EXTRA ORDERS SECTION -->
+<div class="menu-section">
+    <h2>Extra Orders</h2>
+    <div class="menu-item">
+        <span class="menu-item-title">Chicken Pasta</span>
+        <span class="price">8000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Beef Stroganoff</span>
+        <span class="price">6000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Chicken Stroganoff</span>
+        <span class="price">7000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Croque Monsieur</span>
+        <span class="price">4000 RWF</span>
+        <div class="menu-item-description">Bread, Ham, cheese with accompaniment</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Croque Madam</span>
+        <span class="price">5000 RWF</span>
+        <div class="menu-item-description">Bread, Ham, Omelette with accompaniment</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Crispy Chicken</span>
+        <span class="price">8000 RWF</span>
+        <div class="menu-item-description">Breaded chicken served with accompaniment</div>
+    </div>
+</div>
+
+<!-- SIDE DISHES SECTION -->
+<div class="menu-section">
+    <h2>Side Dishes</h2>
+    <div class="menu-item">
+        <span class="menu-item-title">Chips</span>
+        <span class="price">3000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Chips Masala</span>
+        <span class="price">3500 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Grilled Banana</span>
+        <span class="price">1000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Grilled Potatoes</span>
+        <span class="price">1000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Avisha Potatoes</span>
+        <span class="price">4000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Avisha Potatoes Beef</span>
+        <span class="price">6000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Avisha Potatoes Sausage</span>
+        <span class="price">6000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Chicken Fried Rice</span>
+        <span class="price">7000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Beef Fried Rice</span>
+        <span class="price">6000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Stir fry Vegetable</span>
+        <span class="price">3000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Egg fried rice</span>
+        <span class="price">3000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Avisha Banana</span>
+        <span class="price">4000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Two Combination fried rice (beef and Chicken)</span>
+        <span class="price">8000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Avisha Mixed Potatoes</span>
+        <span class="price">4000 RWF</span>
+        <div class="menu-item-description">Potatoes, egg, cheese</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Ugali</span>
+        <span class="price">4000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Pilau</span>
+        <span class="price">3000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Beef Pilau</span>
+        <span class="price">6000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Chicken Pilau</span>
+        <span class="price">7000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Beans</span>
+        <span class="price">1000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Vegetable</span>
+        <span class="price">1000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Beef Stew + Chips and Rice</span>
+        <span class="price">6000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Chicken Stew + Chips and Rice</span>
+        <span class="price">7000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Plantains</span>
+        <span class="price">3000 RWF</span>
+    </div>
+</div>
+
+<!-- ASIAN DISHES SECTION -->
+<div class="menu-section">
+    <h2>Asian Dishes</h2>
+    <div class="menu-item">
+        <span class="menu-item-title">Beef Sizzling</span>
+        <span class="price">10000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Chicken Sizzling</span>
+        <span class="price">11000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Fish Sizzling</span>
+        <span class="price">12000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Mongolian Beef</span>
+        <span class="price">8000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Teriyaki Beef</span>
+        <span class="price">9000 RWF</span>
+    </div>
+</div>
+
+<!-- MAIN COURSES SECTION -->
+<div class="menu-section">
+    <h2>Main Courses</h2>
+    <div class="menu-item">
+        <span class="menu-item-title">Silver Steak</span>
+        <span class="price">8000 RWF</span>
+        <div class="menu-item-description">Sirloin seasoned with rosemary, dark soya sauce, Garlic salt and black Pepper Pan seared traditional in Italian Style</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">T-Bone Steak</span>
+        <span class="price">8000 RWF</span>
+        <div class="menu-item-description">T-Shaped steak, marinated with garlic, rosemary</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Tenderloin Steak</span>
+        <span class="price">8000 RWF</span>
+        <div class="menu-item-description">Grilled tenderloin seasoned with salt, pepper and rosemary</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Grilled Steak</span>
+        <span class="price">8000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Chicken Cordon Bleu</span>
+        <span class="price">8000 RWF</span>
+        <div class="menu-item-description">Stuffed chicken breast, with ham and cheese coated with flour eggs, bread crumbs</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Chicken A La King</span>
+        <span class="price">8000 RWF</span>
+        <div class="menu-item-description">Leg pan grilled Chicken leg braised in onion</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Tilapia Fillet</span>
+        <span class="price">8000 RWF</span>
+        <div class="menu-item-description">with mushroom sauce accompaniment</div>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Fish Fingers</span>
+        <span class="price">8000 RWF</span>
+    </div>
+</div>
+
+<!-- ACCOMPANIMENTS SECTION -->
+<div class="menu-section">
+    <h2>Accompaniments</h2>
+    <div class="menu-item">
+        <span class="menu-item-title">Basmati Rice</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Mashed Potatoes</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Chips</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Ugali</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Roasted Potatoes</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Boiled Potatoes</span>
+    </div>
+</div>
+
+<!-- INDIAN DISHES SECTION -->
+<div class="menu-section">
+    <h2>Indian Dishes</h2>
+    <div class="menu-item">
+        <span class="menu-item-title">Chicken Tikka</span>
+        <span class="price">8000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Chicken Curry</span>
+        <span class="price">8000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Beef Curry</span>
+        <span class="price">7000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">Fish Curry</span>
+        <span class="price">8000 RWF</span>
+    </div>
+</div>
+
+<!-- AFRICAN DISHES SECTION -->
+<div class="menu-section">
+    <h2>African Dishes</h2>
+    <div class="menu-item">
+        <span class="menu-item-title">Chicken Ngolo</span>
+        <span class="price">8000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">African Chicken</span>
+        <span class="price">8000 RWF</span>
+    </div>
+    <div class="menu-item">
+        <span class="menu-item-title">African Lake Whole Tilapia Fish</span>
+        <span class="price">20000 RWF</span>
+    </div>
+</div>
+
+</body>
+</html>
